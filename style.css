@@ -7,3 +7,8 @@ nav{
     height: 15vh;
     padding-top: 7vh;
 }
+main{
+    width: 100vw;
+    height: 30vh;
+    background-color: yellow;
+}
